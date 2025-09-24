@@ -38,7 +38,7 @@ const navItems = [
 export default function Navbar({ montserrat }) {
   const pathName = usePathname();
 
-  const user = true;
+  const user = false;
 
   return (
     <header className="border-b px-4 md:px-6 sticky top-0 z-50">

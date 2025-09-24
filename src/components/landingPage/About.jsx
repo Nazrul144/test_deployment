@@ -41,7 +41,7 @@ const About = () => {
             </div>
             <div className="text-center">
               <div className='flex justify-center items-center'>
-                <h4 className="common-text font-bold lg:text-4xl inter-text">4.7</h4>
+                <h4 className="common-text font-bold lg:text-4xl inter-text">4.8 </h4>
               <IoMdStar className='mt-4 common-text font-bold' />
               </div>
               <p className="text-gray-600 text-sm">Average Rating</p>

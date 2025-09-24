@@ -1,6 +1,6 @@
 
 
-import About from '@/components/LandingPage/About'
+import About from '@/components/landingPage/About'
 import React from 'react'
 
 const AboutPage = () => {

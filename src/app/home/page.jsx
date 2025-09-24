@@ -1,4 +1,4 @@
-import Header from '@/components/LandingPage/Header'
+import Header from '@/components/landingPage/Header'
 import React from 'react'
 
 const HomePage = () => {
